@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table example</title>
+</head>
+
+<body>
+    <table border="2px" width="50%">
+        <thead>
+            <tr>
+                <th colspan="3"> INFORMAÇÃO NUTRICIONAL</th>
+            </tr>
+        </thead>
+        <thead>
+            <tr>
+                <th colspan="3"> Valores referentes a porção de 100g</th>
+            </tr>
+        </thead>
+        <tr>
+            <td colspan="2">
+                <img src="https://cdn0.tudoreceitas.com/pt/posts/2/1/0/batata_doce_assada_com_alecrim_7012_orig.jpg"
+                    alt="batata_doce" width="100px">
+            </td>
+            <td>
+                1 porção
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                Quantidade por porção
+            </td>
+            <td>
+                %VD*
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Valor energético
+            </td>
+            <td>
+                118Kcal=495J
+            </td>
+            <td>
+                6%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Carboidratos
+            </td>
+            <td>
+                28.2g
+            </td>
+            <td>
+                9%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Proteínas
+            </td>
+            <td>
+                1.3g
+            </td>
+            <td>
+                2%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Gorduras Totais
+            </td>
+            <td>
+                0.1g
+            </td>
+            <td>
+                0%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Gorduras Saturadas
+            </td>
+            <td>
+                0g
+            </td>
+            <td>
+                0%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Gorduras Trans
+            </td>
+            <td>
+                0g
+            </td>
+            <td>
+                0%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Fibra Alimentar
+            </td>
+            <td>
+                2.6g
+            </td>
+            <td>
+                10%
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sódio
+            </td>
+            <td>
+                9mg
+            </td>
+            <td>
+                0%
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
